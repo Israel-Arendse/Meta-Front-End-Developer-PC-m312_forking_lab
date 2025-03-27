@@ -2,3 +2,6 @@
 Had to create a repository for Coursera to complete an assignment
 Wayne
 Meta Back End Developer Certification Version Control
+
+Laura Cristina Tristan Moreno
+Desarrollador de Meta de Android
